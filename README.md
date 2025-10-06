@@ -22,7 +22,7 @@ Outside of standard university courses:
 - **Intro to Tech Art** certificate (Viacheslav Makhynko, Udemy)
 - Completing Stephen Ulibarri’s **Unreal Engine and C++** sequence for deep UE familiarity
 - Currently taking Jesse Pitella’s **Unreal Engine Niagara and Motion** courses
-- Learning **Blender** and **Houdini** to understand the game asset pipeline and identify tooling gaps I can fill as my skills grow.
+- Learning **Blender** and **Houdini** to understand the game asset pipeline and identify tooling gaps I can help fill as my programming skills grow.
 
 To complement my game engine and C++ interests, I’m also taking a Shader-Learning course and working through the following textbooks:
 - *Foundations of Game Engine Development* by Eric Lengyel
