@@ -6,7 +6,7 @@ I'm an aspiring **graphics programmer** and **technical artist** currently atten
 
 ## 🎨 Interests & Inspiration
 
-I’m passionate about using technology to create beauty—building memorable, deeply immersive worlds with signature graphics and rendering techniques. My personal hero and professional inspiration is **Inigo Quilez**: his legendary _ShaderToy_ and his chronicles in the Desmos scene have shaped my journey. I aspire to gain mastery over how computers work at a fundamental level and use that knowledge to create economical, powerful, and elegant code. Working close to the metal is a must for me as a future software engineer.
+I’m passionate about using technology to create beauty and obsessed with building memorable, deeply immersive worlds with signature graphics and rendering techniques. My personal hero and professional inspiration is **Inigo Quilez**: his legendary _ShaderToy_ and his chronicles in the Desmos scene have shaped my journey. I aspire to gain mastery over how computers work at a fundamental level and use that knowledge to create economical, powerful, and elegant code. Working close to the metal is a must for me as a future software engineer.
 
 ---
 
@@ -45,7 +45,7 @@ Hopefully, this sequence will better equip me to digest the SIGGRAPH papers that
     - _(Planned)_ Multiplayer 3D platforming racing experience
 
 - **2.5D Pixel Art RPG (In Design):**  
-  I'm prototyping a **Zelda-like/JRPG** hi-res pixel art game inspired by my favorites—_Sea of Stars_, _Owlboy_, and upcoming releases like _Alabaster Dawn_ and _Threads of Time_  by Radical Fish Riyo Studios.
+  I'm prototyping a **Zelda-like/JRPG** hi-res pixel art game inspired by my favorites: _Sea of Stars_, _Owlboy_, and upcoming releases like _Alabaster Dawn_ and _Threads of Time_  by Radical Fish Riyo Studios.
 
 ---
 
