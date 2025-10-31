@@ -51,7 +51,7 @@ Hopefully, this sequence will better equip me to digest the SIGGRAPH papers that
 
 ## 🏢 Dream Companies
 
-_Nvidia, Nintendo, Warhorse, CDPR, Larian, Moon Studios, Riot Games, Rebel Wolves, Sabotage Studio, Gearbox, Supergiant Games, Sandfall Interactive, THQ Nordic, Airship Syndicate, Archetype, Owlcat, Obsidian, Blizzard, Avalanche, Bioware_
+_Nvidia, Nintendo, Apple,  Warhorse, CDPR, Larian, Moon Studios, Riot Games, Rebel Wolves, Sabotage Studio, Gearbox, Supergiant Games, Sandfall Interactive, THQ Nordic, Airship Syndicate, Archetype, Owlcat, Obsidian, Blizzard, Avalanche, Bioware_
 
 ---
 
