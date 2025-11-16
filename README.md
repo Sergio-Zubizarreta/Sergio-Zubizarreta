@@ -6,7 +6,7 @@ I'm an aspiring **graphics programmer** and **technical artist** currently atten
 
 ## 🎨 Interests & Inspiration
 
-I’m passionate about using technology to create beauty and obsessed with building memorable, deeply immersive worlds with signature graphics and rendering techniques. My personal hero and professional inspiration is **Inigo Quilez**: his legendary _ShaderToy_ and his chronicles in the Desmos scene have shaped my journey. I aspire to gain mastery over how computers work at a fundamental level and use that knowledge to create economical, powerful, and elegant code. Working close to the metal is a must for me as a future software engineer.
+I’m passionate about using technology to create beauty and obsessed with building memorable, deeply immersive worlds with signature graphics and rendering techniques. My personal hero and professional inspiration is **Inigo Quilez**: his legendary _ShaderToy_ and his chronicles in the Demoscene have shaped my journey. I aspire to gain mastery over how computers work at a fundamental level and use that knowledge to create economical, powerful, and elegant code. Working close to the metal is a must for me as a future software engineer.
 
 ---
 
