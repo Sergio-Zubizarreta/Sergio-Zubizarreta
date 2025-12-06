@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I'm an aspiring **graphics programmer** and **technical artist** currently attending **Florida International University (FIU)** as a first-semester freshman, pursuing a **BSc in Computer Science**.
+I'm an aspiring **graphics programmer** and **technical artist** currently attending **Florida International University (FIU)** as a current student, pursuing a combined **BSc+MSc in Computer Science** program.
 
 ---
 
@@ -20,9 +20,9 @@ I’m passionate about using technology to create beauty and obsessed with build
 Outside of standard university courses:
 - **Unreal Engine Fundamentals** certification
 - **Intro to Tech Art** certificate (Viacheslav Makhynko, Udemy)
-- Completing Stephen Ulibarri’s **Unreal Engine and C++** sequence for deep UE familiarity
+- Completing Stephen Ulibarri’s and Tom Looman's **Unreal Engine and C++** sequence for deep UE familiarity
 - Currently taking Jesse Pitella’s **Unreal Engine Niagara and Motion** courses
-- Learning **Blender** and **Houdini** to understand the game asset pipeline and identify tooling gaps I can help fill as my programming skills grow.
+- Learning **Blender**, **Maya**, **Substance3D**, **ZBrush**, and **Houdini** to understand the game asset pipeline and identify tooling gaps I can help fill as my programming skills grow.
 
 To complement my game engine and C++ interests, I’m also taking a Shader-Learning course and working through the following textbooks:
 - *Foundations of Game Engine Development* by Eric Lengyel
@@ -39,10 +39,9 @@ Hopefully, this sequence will better equip me to digest the SIGGRAPH papers that
 ## 🚀 Current Projects
 
 - **INIT Build Program @ FIU (VR):**  
-  My team is developing a mixed-reality creature-battling RPG using QR code recognition with the Meta Quest 3 headset. Our system uses computer vision to detect physical QR code cards, dynamically spawning 3D creature prefabs spatially anchored to the real world.  
+  My team developed a mixed-reality creature-battling RPG using QR code recognition with the Meta Quest 3 headset. Our system uses computer vision to detect physical QR code cards, dynamically spawning 3D creature prefabs spatially anchored to the real world.  
   - **Game Modes:**  
-    - _Solo_: Tamagotchi-style creature care with natural hand-tracking  
-    - _(Planned)_ Multiplayer 3D platforming racing experience
+    - _2-Player over Wifi_: Elementally imbued Type battle system with 3 "Vectormon" types.
 
 - **2.5D Pixel Art RPG (In Design):**  
   I'm prototyping a **Zelda-like/JRPG** hi-res pixel art game inspired by my favorites: _Sea of Stars_, _Owlboy_, and upcoming releases like _Alabaster Dawn_ and _Threads of Time_  by Radical Fish Riyo Studios.
