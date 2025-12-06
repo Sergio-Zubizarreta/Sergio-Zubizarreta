@@ -35,7 +35,7 @@ To complement my game engine and C++ interests, I’m also taking a Shader-Learn
 
 I also plan to dive into **OpenGL** and **Vulkan** as I progress through my freshman coursework, further strengthening my graphics programming foundation.
 
-Hopefully, this sequence will better equip me to digest the SIGGRAPH papers that are, for now, a bit arcane for a freshman.
+Hopefully, this sequence will better equip me to digest the SIGGRAPH papers that are, for now, a bit arcane.
 
 ---
 
