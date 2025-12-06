@@ -10,12 +10,15 @@ I’m passionate about using technology to create beauty and obsessed with build
 
 ---
 
-## 📚 Current Coursework
+## 📚 Coursework
 
-- Programming I with **Java**
-- Programming I with **Python**
+- Programming with **Java**
+- Programming with **Python**
 - **C for Embedded Systems**
-- **Calculus II**
+- **Calculus & Statistics, Linear Algebra**
+- **Data Structures**
+- **Computer Architecture**
+- **Discrete Structures**
 
 Outside of standard university courses:
 - **Unreal Engine Fundamentals** certification
