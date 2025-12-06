@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I'm an aspiring **graphics programmer** and **technical artist** currently attending **Florida International University (FIU)** as a current student, pursuing a combined **BSc+MSc in Computer Science** program.
+I'm an aspiring **graphics programmer** and **technical artist** currently attending **Florida International University (FIU)** as a student, pursuing a combined **BSc+MSc in Computer Science** program.
 
 ---
 
