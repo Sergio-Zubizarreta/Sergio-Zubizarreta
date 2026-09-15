@@ -1,12 +1,12 @@
 # 👋 Hi there!
 
-I'm an aspiring **graphics programmer** and **technical artist** currently attending **Florida International University (FIU)** as a student, pursuing a combined **BSc+MSc in Computer Science** program.
+I'm an aspiring **graphics programmer** and **technical artist** currently attending **Florida International University (FIU)** as a student, pursuing a combined **Bachelor of Science in Computer Science** program.
 
 ---
 
 ## 🎨 Interests & Inspiration
 
-I’m passionate about using technology to create beauty and obsessed with building memorable, deeply immersive worlds with signature graphics and rendering techniques. My personal hero and professional inspiration is **Inigo Quilez**: his legendary _ShaderToy_ and his chronicles in the Demoscene have shaped my journey. I aspire to gain mastery over how computers work at a fundamental level and use that knowledge to create economical, powerful, and elegant code. Working close to the metal is a must for me as a future software engineer.
+I’m passionate about using technology to create beauty and obsessed with building memorable, deeply immersive worlds with signature graphics and rendering techniques. My personal hero and professional inspiration is **Inigo Quilez**: his legendary _ShaderToy_ and his chronicles in the Demoscene have shaped my journey. I aspire to gain mastery over how computers work at a fundamental level and use that knowledge to create economical, powerful, and elegant code that enables beautiful art and creation. I also enjoy topics in simulation, embedded systems, robotics, and bionformatics among the fields of computing.
 
 ---
 
